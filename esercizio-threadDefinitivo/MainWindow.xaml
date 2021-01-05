@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Image x:Name="imgSfondo" HorizontalAlignment="Left" Height="402" Margin="10,10,0,0" VerticalAlignment="Top" Width="775" Source="pista.jpg" Stretch="Fill"/>
+        <Image x:Name="imgMacchina1" HorizontalAlignment="Left" Height="79" Margin="621,23,0,0" VerticalAlignment="Top" Width="125" Source="macchina1.png"  />
+        <Image x:Name="imgMacchina2" HorizontalAlignment="Left" Height="81" Margin="634,125,0,0" VerticalAlignment="Top" Width="125" Source="macchina2.png"  />
+        <Image x:Name="imgMacchina3" HorizontalAlignment="Left" Height="85" Margin="618,227,0,0" VerticalAlignment="Top" Width="167" Source="macchina3.png" />
+
     </Grid>
 </Window>

@@ -94,5 +94,18 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="pista.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="macchina1.jpg" />
+    <Resource Include="macchina1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="macchina2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="macchina3.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
